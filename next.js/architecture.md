@@ -21,7 +21,6 @@ src/
  ├── hooks/                 # 【Global Hooks】汎用的なロジック
  ├── lib/                   # 外部ライブラリの初期化 (Prisma, Supabase等)
  ├── stores/                   # ストア格納
-
  └── utils/                 # 純粋なユーティリティ関数
 
 ```
